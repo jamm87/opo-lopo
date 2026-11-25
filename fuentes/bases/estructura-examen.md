@@ -1,7 +1,14 @@
 # Estructura del examen — Base Undécima y Duodécima
 
-Fuente: `bases-aux-administrativo-definitivas-v2.pdf`, págs. 7–9 (texto por OCR; ver nota en `temario-oficial.md`).
-⚠️ PENDIENTE: comprobar si la rectificación del BOCM n.º 267 (06/11/2026) modifica algo de esta base.
+Fuente: `bases-aux-administrativo-definitivas-v2.pdf`, págs. 7–9. Texto por OCR; todas las cifras
+(preguntas, tiempos, puntuaciones, penalizaciones y mínimos) cotejadas visualmente con el PDF el 2026-11-25.
+✅ La rectificación del BOCM n.º 267 (06/11/2026) no modifica esta base (ver `publicaciones.md`).
+
+## Datos que las bases NO fijan (los decidirá el Tribunal; revisar sus anuncios)
+- Tiempo del 3.er ejercicio.
+- Número de opciones de respuesta del psicotécnico y si los errores penalizan.
+- Qué cuenta exactamente como «falta» en la parte b del 2.º ejercicio.
+Las bases se han leído completas (16 págs.) y estos datos no aparecen en ninguna parte.
 
 ## Generalidades (Base 11.1–11.4)
 - Sistema: oposición, puntuación total de 100 puntos. Cada ejercicio es eliminatorio.

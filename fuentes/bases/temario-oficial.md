@@ -9,8 +9,8 @@ el 2026-11-25.
 > evidentes del OCR («Bloque |» → «Bloque I», «Bloque ll» → «Bloque II»). Se conservan tal cual las
 > minúsculas y puntuación del original (p. ej. «la Constitución» en el tema 1, la falta de punto tras
 > «sector público» en el tema 5).
-> ⚠️ PENDIENTE: cotejo visual contra el PDF y contra la rectificación del BOCM n.º 267 (06/11/2026),
-> que no se ha revisado todavía.
+> ✅ Cotejado visualmente contra el PDF (págs. 14–16) el 2026-11-25: los 38 enunciados coinciden.
+> ✅ La rectificación del BOCM n.º 267 (06/11/2026) no afecta al temario (ver `publicaciones.md`).
 
 ## Bloque I. Temario- programa
 

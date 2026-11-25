@@ -18,7 +18,7 @@ nunca se rellena con contenido plausible.
 | 1.º | Psicotécnico | 50 (+5 reserva) | 50 min | — | — | — | Apto/No apto | 25 aciertos |
 | 2.º a | Ortografía test (3 opciones) | 20 | 45 min (a+b) | +0,50 | −0,10 | −0,05 | 10 | 5 |
 | 2.º b | Texto con 20 faltas (manuscrito) | 20 faltas | (incluido) | — | −0,75 por falta | — | 10 | 5 |
-| 3.º | Test Bloque II (temas 31–38) | 30 | ⚠️ no indicado en bases | +1,00 | −0,25 | −0,10 | 30 | 15 |
+| 3.º | Test Bloque II (temas 31–38) | 30 | ⚠️ no lo fijan las bases | +1,00 | −0,25 | −0,10 | 30 | 15 |
 | 4.º | Test Bloque I (temas 1–30) | 80 (+5 reserva) | 80 min | +0,625 | −0,20 | −0,05 | 50 | 25 |
 
 Desempate: 1.º mayor nota en el 3.er ejercicio; 2.º mayor nota en el 2.º ejercicio.
