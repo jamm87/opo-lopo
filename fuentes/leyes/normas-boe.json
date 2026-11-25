@@ -1,0 +1,342 @@
+{
+  "CE": {
+    "id": "BOE-A-1978-31229",
+    "titulo": "Constitución Española.",
+    "ultima_modificacion": "20260520",
+    "derogada": "N",
+    "anulada": "N",
+    "vigencia_agotada": "N",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+    "consolidacion": "Finalizado"
+  },
+  "RCongreso": {
+    "id": "BOE-A-1982-5196",
+    "titulo": "Resolución de 24 de febrero de 1982 por la que se ordena la publicación en el «Boletín Oficial del Estado» del nuevo Reglamento del Congreso de los Diputados.",
+    "ultima_modificacion": "20260728",
+    "derogada": "N",
+    "anulada": "N",
+    "vigencia_agotada": "N",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1982-5196",
+    "consolidacion": "Finalizado"
+  },
+  "RSenado": {
+    "id": "BOE-A-1994-10830",
+    "titulo": "Texto refundido del Reglamento del Senado aprobado por la Mesa del Senado, oída la Junta de Portavoces, en su reunión del día 3 de mayo de 1994.",
+    "ultima_modificacion": "20251114",
+    "derogada": "N",
+    "anulada": "N",
+    "vigencia_agotada": "N",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-10830",
+    "consolidacion": "Finalizado"
+  },
+  "L50/1997": {
+    "id": "BOE-A-1997-25336",
+    "titulo": "Ley 50/1997, de 27 de noviembre, del Gobierno.",
+    "ultima_modificacion": "20250103",
+    "derogada": "N",
+    "anulada": "N",
+    "vigencia_agotada": "N",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336",
+    "consolidacion": "Finalizado"
+  },
+  "LO6/1985": {
+    "id": "BOE-A-1985-12666",
+    "titulo": "Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial.",
+    "ultima_modificacion": "20250217",
+    "derogada": "N",
+    "anulada": "N",
+    "vigencia_agotada": "N",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-12666",
+    "consolidacion": "Finalizado"
+  },
+  "LO2/1979": {
+    "id": "BOE-A-1979-23709",
+    "titulo": "Ley Orgánica 2/1979, de 3 de octubre, del Tribunal Constitucional.",
+    "ultima_modificacion": "20240802",
+    "derogada": "N",
+    "anulada": "N",
+    "vigencia_agotada": "N",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1979-23709",
+    "consolidacion": "Finalizado"
+  },
+  "LO3/1981": {
+    "id": "BOE-A-1981-10325",
+    "titulo": "Ley Orgánica 3/1981, de 6 de abril, del Defensor del Pueblo.",
+    "ultima_modificacion": "20091104",
+    "derogada": "N",
+    "anulada": "N",
+    "vigencia_agotada": "N",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1981-10325",
+    "consolidacion": "Finalizado"
+  },
+  "LO3/1983": {
+    "id": "BOE-A-1983-6317",
+    "titulo": "Ley Orgánica 3/1983, de 25 de febrero, de Estatuto de Autonomía de la Comunidad de Madrid.",
+    "ultima_modificacion": "20100717",
+    "derogada": "N",
+    "anulada": "N",
+    "vigencia_agotada": "N",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1983-6317",
+    "consolidacion": "Finalizado"
+  },
+  "L1/1983CM": {
+    "id": "BOE-A-1984-2926",
+    "titulo": "Ley 1/1983, de 13 de diciembre, del Gobierno y Administración de la Comunidad de Madrid.",
+    "ultima_modificacion": "20250814",
+    "derogada": "N",
+    "anulada": "N",
+    "vigencia_agotada": "N",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1984-2926",
+    "consolidacion": "Finalizado"
+  },
+  "L39/2015": {
+    "id": "BOE-A-2015-10565",
+    "titulo": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.",
+    "ultima_modificacion": "20241106",
+    "derogada": "N",
+    "anulada": "N",
+    "vigencia_agotada": "N",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+    "consolidacion": "Finalizado"
+  },
+  "L40/2015": {
+    "id": "BOE-A-2015-10566",
+    "titulo": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.",
+    "ultima_modificacion": "20240802",
+    "derogada": "N",
+    "anulada": "N",
+    "vigencia_agotada": "N",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566",
+    "consolidacion": "Finalizado"
+  },
+  "CC": {
+    "id": "BOE-A-1889-4763",
+    "titulo": "Real Decreto de 24 de julio de 1889 por el que se publica el Código Civil.",
+    "ultima_modificacion": "20250103",
+    "derogada": "N",
+    "anulada": "N",
+    "vigencia_agotada": "N",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763",
+    "consolidacion": "Finalizado"
+  },
+  "L38/2003": {
+    "id": "BOE-A-2003-20977",
+    "titulo": "Ley 38/2003, de 17 de noviembre, General de Subvenciones.",
+    "ultima_modificacion": "20261003",
+    "derogada": "N",
+    "anulada": "N",
+    "vigencia_agotada": "N",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977",
+    "consolidacion": "Finalizado"
+  },
+  "RD887/2006": {
+    "id": "BOE-A-2006-13371",
+    "titulo": "Real Decreto 887/2006, de 21 de julio, por el que se aprueba el Reglamento de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.",
+    "ultima_modificacion": "20230629",
+    "derogada": "N",
+    "anulada": "N",
+    "vigencia_agotada": "N",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-13371",
+    "consolidacion": "Finalizado"
+  },
+  "L19/2013": {
+    "id": "BOE-A-2013-12887",
+    "titulo": "Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno.",
+    "ultima_modificacion": "20220709",
+    "derogada": "N",
+    "anulada": "N",
+    "vigencia_agotada": "N",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887",
+    "consolidacion": "Finalizado"
+  },
+  "L9/2017": {
+    "id": "BOE-A-2017-12902",
+    "titulo": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014.",
+    "ultima_modificacion": "20261121",
+    "derogada": "N",
+    "anulada": "N",
+    "vigencia_agotada": "N",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902",
+    "consolidacion": "Finalizado"
+  },
+  "LO3/2018": {
+    "id": "BOE-A-2018-16673",
+    "titulo": "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.",
+    "ultima_modificacion": "20251227",
+    "derogada": "N",
+    "anulada": "N",
+    "vigencia_agotada": "N",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673",
+    "consolidacion": "Finalizado"
+  },
+  "L7/1985": {
+    "id": "BOE-A-1985-5392",
+    "titulo": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+    "ultima_modificacion": "20261003",
+    "derogada": "N",
+    "anulada": "N",
+    "vigencia_agotada": "N",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392",
+    "consolidacion": "Finalizado"
+  },
+  "RDL781/1986": {
+    "id": "BOE-A-1986-9865",
+    "titulo": "Real Decreto Legislativo 781/1986, de 18 de abril, por el que se aprueba el texto refundido de las disposiciones legales vigentes en materia de Régimen Local.",
+    "ultima_modificacion": "20241109",
+    "derogada": "N",
+    "anulada": "N",
+    "vigencia_agotada": "N",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-9865",
+    "consolidacion": "Finalizado"
+  },
+  "RD1690/1986": {
+    "id": "BOE-A-1986-21944",
+    "titulo": "Real Decreto 1690/1986, de 11 de julio, por el que se aprueba el Reglamento de Población y Demarcación Territorial de las Entidades Locales.",
+    "ultima_modificacion": "20240207",
+    "derogada": "N",
+    "anulada": "N",
+    "vigencia_agotada": "N",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-21944",
+    "consolidacion": "Finalizado"
+  },
+  "RD2568/1986": {
+    "id": "BOE-A-1986-33252",
+    "titulo": "Real Decreto 2568/1986, de 28 de noviembre, por el que se aprueba el Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales.",
+    "ultima_modificacion": "19861222",
+    "derogada": "N",
+    "anulada": "N",
+    "vigencia_agotada": "N",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-33252",
+    "consolidacion": "Finalizado"
+  },
+  "RD1372/1986": {
+    "id": "BOE-A-1986-17958",
+    "titulo": "Real Decreto 1372/1986, de 13 de junio, por el que se aprueba el Reglamento de Bienes de las Entidades Locales.",
+    "ultima_modificacion": "19860707",
+    "derogada": "N",
+    "anulada": "N",
+    "vigencia_agotada": "N",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-17958",
+    "consolidacion": "Finalizado"
+  },
+  "RD128/2018": {
+    "id": "BOE-A-2018-3760",
+    "titulo": "Real Decreto 128/2018, de 16 de marzo, por el que se regula el régimen jurídico de los funcionarios de Administración Local con habilitación de carácter nacional.",
+    "ultima_modificacion": "20180317",
+    "derogada": "N",
+    "anulada": "N",
+    "vigencia_agotada": "N",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-3760",
+    "consolidacion": "Finalizado"
+  },
+  "RDL5/2015": {
+    "id": "BOE-A-2015-11719",
+    "titulo": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público.",
+    "ultima_modificacion": "20261125",
+    "derogada": "N",
+    "anulada": "N",
+    "vigencia_agotada": "N",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719",
+    "consolidacion": "Finalizado"
+  },
+  "L53/1984": {
+    "id": "BOE-A-1985-151",
+    "titulo": "Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas.",
+    "ultima_modificacion": "20261121",
+    "derogada": "N",
+    "anulada": "N",
+    "vigencia_agotada": "N",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-151",
+    "consolidacion": "Finalizado"
+  },
+  "RDL2/2015": {
+    "id": "BOE-A-2015-11430",
+    "titulo": "Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores.",
+    "ultima_modificacion": "20261125",
+    "derogada": "N",
+    "anulada": "N",
+    "vigencia_agotada": "N",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430",
+    "consolidacion": "Finalizado"
+  },
+  "RDL2/2004": {
+    "id": "BOE-A-2004-4214",
+    "titulo": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales.",
+    "ultima_modificacion": "20261007",
+    "derogada": "N",
+    "anulada": "N",
+    "vigencia_agotada": "N",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214",
+    "consolidacion": "Finalizado"
+  },
+  "RD939/2005": {
+    "id": "BOE-A-2005-14803",
+    "titulo": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación.",
+    "ultima_modificacion": "20240131",
+    "derogada": "N",
+    "anulada": "N",
+    "vigencia_agotada": "N",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-14803",
+    "consolidacion": "Finalizado"
+  },
+  "L58/2003": {
+    "id": "BOE-A-2003-23186",
+    "titulo": "Ley 58/2003, de 17 de diciembre, General Tributaria.",
+    "ultima_modificacion": "20261121",
+    "derogada": "N",
+    "anulada": "N",
+    "vigencia_agotada": "N",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23186",
+    "consolidacion": "Desactualizado"
+  },
+  "RD500/1990": {
+    "id": "BOE-A-1990-9664",
+    "titulo": "Real Decreto 500/1990, de 20 de abril, por el que se desarrolla el capítulo primero del título sexto de la Ley 39/1988, de 28 de diciembre, Reguladora de las Haciendas Locales, en materia de presupuestos.",
+    "ultima_modificacion": "19900427",
+    "derogada": "N",
+    "anulada": "N",
+    "vigencia_agotada": "N",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1990-9664",
+    "consolidacion": "Finalizado"
+  },
+  "OEHA3565/2008": {
+    "id": "BOE-A-2008-19916",
+    "titulo": "Orden EHA/3565/2008, de 3 de diciembre, por la que se aprueba la estructura de los presupuestos de las entidades locales.",
+    "ultima_modificacion": "20140319",
+    "derogada": "N",
+    "anulada": "N",
+    "vigencia_agotada": "N",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2008-19916",
+    "consolidacion": "Finalizado"
+  },
+  "RD424/2017": {
+    "id": "BOE-A-2017-5192",
+    "titulo": "Real Decreto 424/2017, de 28 de abril, por el que se regula el régimen jurídico del control interno en las entidades del Sector Público Local.",
+    "ultima_modificacion": "20170512",
+    "derogada": "N",
+    "anulada": "N",
+    "vigencia_agotada": "N",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-5192",
+    "consolidacion": "Finalizado"
+  },
+  "L9/2001CM": {
+    "id": "BOE-A-2001-18984",
+    "titulo": "Ley 9/2001, de 17 de julio, del Suelo, de la Comunidad de Madrid.",
+    "ultima_modificacion": "20260615",
+    "derogada": "N",
+    "anulada": "N",
+    "vigencia_agotada": "N",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-18984",
+    "consolidacion": "Finalizado"
+  },
+  "RDL7/2015": {
+    "id": "BOE-A-2015-11723",
+    "titulo": "Real Decreto Legislativo 7/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley de Suelo y Rehabilitación Urbana.",
+    "ultima_modificacion": "20230525",
+    "derogada": "N",
+    "anulada": "N",
+    "vigencia_agotada": "N",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11723",
+    "consolidacion": "Finalizado"
+  }
+}
