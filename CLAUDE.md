@@ -39,7 +39,9 @@ En caso de duda, se descarta. Mejor menos preguntas que una incorrecta.
 
 ## Estructura de archivos
 - `fuentes/bases/` — PDF oficial, temario literal, estructura del examen, requisitos
-- `fuentes/leyes/` — textos consolidados del BOE (un .md por norma) + `indice-normativo.md`
+- `fuentes/leyes/` — textos consolidados COMPLETOS del BOE (un .md por norma, versión vigente de cada bloque, ancla `<a id="aN">` = artículo N) + `indice-normativo.md` + `normas-boe.json`
+- `scripts/boe_api.py`, `scripts/descargar_leyes.py` — acceso a la API del BOE y descarga de las normas
+- `docs/pendientes.md` — decisiones y datos pendientes
 - `fuentes/examenes-anteriores/` — JSON de exámenes de otras convocatorias (`verificado: false` hasta Fase 3)
 - `temario/bloque-i/tema-NN.md` (1–30), `temario/bloque-ii/tema-NN.md` (31–38)
 - `banco-preguntas/{bloque-i,bloque-ii}/tema-NN.json` (aprobadas), `tema-NN-borrador.json` (borrador)

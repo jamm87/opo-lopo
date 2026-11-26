@@ -2,7 +2,10 @@
 
 Generado el 2026-11-25 con la API de datos abiertos del BOE (`scripts/boe_api.py`).
 - **Norma, identificador, enlace, estado y última modificación:** datos de la API del BOE. La «última modificación» es la fecha más reciente entre los bloques del texto consolidado.
-- **Artículos clave:** PROPUESTA basada en el enunciado del tema. Se comprobarán contra el texto de cada norma en el prompt 1.3.
+- **Artículos clave:** PROPUESTA basada en el enunciado del tema. Comprobación del 2026-11-26 contra los textos descargados:
+  - ✅ Constitución, Ley 39/2015, Ley 40/2015, Código Civil y LRBRL: los títulos, capítulos y artículos citados existen y coinciden con su contenido.
+  - ⏳ Resto de normas: el índice indica la materia, no artículos concretos; se precisarán al redactar los apuntes de cada tema (Fase 2).
+- **Textos:** cada norma está descargada completa en `fuentes/leyes/<archivo>.md` (ver `scripts/descargar_leyes.py`).
 - Todas las normas listadas figuran en el BOE como vigentes (no derogadas ni anuladas).
 
 ## Tema 1: la Constitución española de 1978. Principios generales. Los Derechos y Deberes fundamentales. Las libertades públicas. La Corona. Las Cortes Generales: Funciones y régimen de funcionamiento.

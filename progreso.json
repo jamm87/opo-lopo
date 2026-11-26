@@ -1,5 +1,5 @@
 {
-  "fase_actual": "1.2",
+  "fase_actual": "1.3",
   "temas": {
     "1": {
       "apuntes": "pendiente",
@@ -199,8 +199,8 @@
     "0": "completada",
     "1.1": "completada (cotejada con PDF y rectificación BOCM 267)",
     "1.2": "completada (articulos clave = propuesta, a verificar en 1.3; Bloque II y temas 15/17 con lagunas)",
-    "1.3": "pendiente",
+    "1.3": "completada (34 normas, texto completo, 0 bloques perdidos; RGPD pendiente: no esta en el BOE)",
     "1.4": "pendiente"
   },
-  "ultima_sesion": "2026-11-25"
+  "ultima_sesion": "2026-11-26"
 }
